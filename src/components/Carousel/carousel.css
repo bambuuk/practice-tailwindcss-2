@@ -1,0 +1,21 @@
+.swiper-button-prev,
+.swiper-button-next {
+  @apply text-white drop-shadow-2xl;
+  font-size: 10px; /* Змініть на бажаний колір */
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  @apply text-xl sm:text-3xl lg:text-5xl;
+}
+
+/* При наведенні курсора на стрілки (необов'язково) */
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  @apply text-slate-300 drop-shadow-2xl transition-all
+}
+
+.swiper-button-prev:active,
+.swiper-button-next:active {
+  @apply scale-[0.8]
+}
