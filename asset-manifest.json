@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.766163d6.css",
-    "main.js": "/static/js/main.9eb27414.js",
-    "static/media/beachVid.mp4": "/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
-    "static/media/keywest.jpg": "/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "static/media/maldives3.jpg": "/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
-    "index.html": "/index.html",
-    "main.766163d6.css.map": "/static/css/main.766163d6.css.map",
-    "main.9eb27414.js.map": "/static/js/main.9eb27414.js.map"
+    "main.css": "/practice-tailwindcss-2/static/css/main.766163d6.css",
+    "main.js": "/practice-tailwindcss-2/static/js/main.e259df90.js",
+    "static/media/beachVid.mp4": "/practice-tailwindcss-2/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/practice-tailwindcss-2/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/practice-tailwindcss-2/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/practice-tailwindcss-2/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/practice-tailwindcss-2/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/practice-tailwindcss-2/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/practice-tailwindcss-2/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/practice-tailwindcss-2/index.html",
+    "main.766163d6.css.map": "/practice-tailwindcss-2/static/css/main.766163d6.css.map",
+    "main.e259df90.js.map": "/practice-tailwindcss-2/static/js/main.e259df90.js.map"
   },
   "entrypoints": [
     "static/css/main.766163d6.css",
-    "static/js/main.9eb27414.js"
+    "static/js/main.e259df90.js"
   ]
 }
