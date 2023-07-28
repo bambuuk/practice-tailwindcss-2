@@ -1,5 +1,6 @@
 {
   "name": "tailwind-react-travel",
+  "homepage": "https://bambuuk.github.io/practice-tailwindcss-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
